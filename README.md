@@ -10,7 +10,7 @@
    - Private Subnet / Public Subnet
  - ALB
  - EC2
- - Aurora(MySQL 5.7)
+ - Aurora(postgres11 11.5)
 
 ## usage
 
